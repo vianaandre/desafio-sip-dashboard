@@ -15,7 +15,7 @@
 - Typescript
 - Styled-components
 - Recharts
-- React-icon
+- React-icons
 
 <hr />
 
